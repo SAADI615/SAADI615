@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @SAADI615
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Salim
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Real State data science
+- 💞️ I’m looking to collaborate on Real State companies
+- 📫 How to reach me salimsadman615@gmail.com
 
 <!---
 SAADI615/SAADI615 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
