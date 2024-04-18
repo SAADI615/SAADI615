@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Salim
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Real State data science
-- 💞️ I’m looking to collaborate on Real State companies
+- 🌱 I’m capable of working with python, pandas, matplotlib, seaborn and many more
 - 📫 How to reach me salimsadman615@gmail.com
 
 <!---
