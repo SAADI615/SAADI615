@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/SAADI615/SAADI615/blob/main/Purple%20Abstract%20Graphic%20Design%20LinkedIn%20Article%20Cover%20Image_20240519_211426_0000.png)
 <h1 align="center">Hi 👋, I'm Salim Sadman</h1>
 <h3 align="center">I'm a Data scientist with Machine Learning & Deep Learning expertise</h3>
 <img align="right" alt="coidng" width="400" src="https://media4.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=6c09b952ct0tzvxcdvijpitdwnvekwjr3atil7qsgcq5g0e5&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g">
